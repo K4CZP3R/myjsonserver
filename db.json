@@ -1,0 +1,6 @@
+{
+	"hass": {
+	"entity_id": "person.ugabuga"
+	"state": "home"
+}
+}
